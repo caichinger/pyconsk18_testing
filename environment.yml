@@ -1,0 +1,12 @@
+name: testing
+dependencies:
+- python=3.6
+- numpy
+- scipy
+- matplotlib
+- pandas
+- jupyter
+- pytest
+- pip:
+  - engarde
+  - hypothesis
