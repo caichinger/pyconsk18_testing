@@ -4,15 +4,16 @@
 
 A PyCon SK 2018 Workshop by [Claus Aichinger](https://2018.pycon.sk/en/speakers/Aichinger.html).
 
-[Feedback Form](https://goo.gl/forms/fBW6Bkeht9bxsC6B3)
+If you find any issues or have ideas for improvement, please to not
+hesitate to file an Issue or Pull request, I appreciate your feedback! :)
 
-If you find any Issues or have ideas for improvment, please to not
-hesitate to file an Issue or Pull request, I appreciate your feedback!
+Even easier, there is a [feedback form](https://goo.gl/forms/fBW6Bkeht9bxsC6B3),
+thanks!
 
 
 ## Installation & Setup
 
-Please make sure you have the environment specified in [env.yml](env.yml)
+Please make sure you have the environment specified in [environment.yml](environment.yml)
 set up prior to the workshop.
 
 If you use [conda](https://conda.io/docs/), you can do
@@ -44,9 +45,10 @@ in `environment.yml`.
   - [doctest](https://docs.python.org/3/library/doctest.html)
   - [pytest](http://pytest.org/)
 - Interactive exploration of a computation problem (live coding, all together)
-  - Specification
+  - Specification & discussion
   - How to approach it?
   - How to devise tests?
+
 
 ## Description
 
